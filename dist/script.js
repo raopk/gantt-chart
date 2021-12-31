@@ -226,7 +226,7 @@ var chart = AmCharts.makeChart( "chartdiv", {
             "task": "Assess"
         }  ]
     }, {
-        "category": "Project 1",
+        "category": "Project I",
         "segments": [ {
             "start": 61,
             "duration": 10,
@@ -246,7 +246,7 @@ var chart = AmCharts.makeChart( "chartdiv", {
             "task": "Assess"
         }  ]
     }, {
-        "category": "Project I",
+        "category": "Project II",
         "segments": [ {
             "start": 61,
             "duration": 10,
